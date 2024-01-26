@@ -94,6 +94,7 @@ pip install pandasql
 pip install statsmodels
 pip install pmdarima
 pip install prophet
+pip install ipykernel
 pip install jupyter notebook
 ```
     
